@@ -1,0 +1,7 @@
+D:\source\repos\GradosRadianes\GradosRadianes\bin\Debug\GradosRadianes.exe.config
+D:\source\repos\GradosRadianes\GradosRadianes\bin\Debug\GradosRadianes.exe
+D:\source\repos\GradosRadianes\GradosRadianes\bin\Debug\GradosRadianes.pdb
+D:\source\repos\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.csproj.AssemblyReference.cache
+D:\source\repos\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.csproj.CoreCompileInputs.cache
+D:\source\repos\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.exe
+D:\source\repos\GradosRadianes\GradosRadianes\obj\Debug\GradosRadianes.pdb
